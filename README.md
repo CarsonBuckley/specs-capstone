@@ -15,5 +15,5 @@ Future Features:
 - Embedded Spotify podcast player for my Utah Football podcast
 - The host (me) will be able to create and post articles with the ability for users to comment on said articles
 
-![alt text](https://github.com/CarsonBuckley/specs-capstone/blob/main/Desktop%201%20-%20Recruiting.png)
 ![alt text](https://github.com/CarsonBuckley/specs-capstone/blob/main/Desktop%201%20-%20Roster.png)
+![alt text](https://github.com/CarsonBuckley/specs-capstone/blob/main/Desktop%201%20-%20Recruiting.png)
